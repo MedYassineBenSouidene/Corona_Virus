@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1700759294 source:c:\users\sswed\onedrive\bureau\projet asd2\projet c\eltcovid.c
+	<stdio.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1619815367 c:\users\sswed\onedrive\bureau\projet asd2\projet c\eltprim.h
+	"ELTSDD.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet asd2\projet c\eltsdd.h
+	"ELTCOVID.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet asd2\projet c\eltcovid.h
+
+1700759164 source:c:\users\sswed\onedrive\bureau\projet asd2\projet c\lstcovid.c
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet asd2\projet c\lstprim.h
+	"LSTSDD.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet asd2\projet c\lstsdd.h
+	"LSTCOVID.h"
+
+1619836987 c:\users\sswed\onedrive\bureau\projet asd2\projet c\lstcovid.h
+	"ELTPRIM.h"
+
+1619837139 source:c:\users\sswed\onedrive\bureau\projet asd2\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	<string.h>
+
+1701262638 source:c:\users\sswed\onedrive\bureau\projet programmation c\projet c\eltcovid.c
+	<stdio.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1619815367 c:\users\sswed\onedrive\bureau\projet programmation c\projet c\eltprim.h
+	"ELTSDD.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet programmation c\projet c\eltsdd.h
+	"ELTCOVID.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet programmation c\projet c\eltcovid.h
+
+1700759164 source:c:\users\sswed\onedrive\bureau\projet programmation c\projet c\lstcovid.c
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet programmation c\projet c\lstprim.h
+	"LSTSDD.h"
+
+1619815367 c:\users\sswed\onedrive\bureau\projet programmation c\projet c\lstsdd.h
+	"LSTCOVID.h"
+
+1619836987 c:\users\sswed\onedrive\bureau\projet programmation c\projet c\lstcovid.h
+	"ELTPRIM.h"
+
+1619837139 source:c:\users\sswed\onedrive\bureau\projet programmation c\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+	<string.h>
+
